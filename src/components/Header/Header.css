@@ -1,0 +1,9 @@
+.container-Header{
+    height: 100px;
+    padding: 1%;
+    border-bottom: 1px solid silver;
+    background:linear-gradient(to right, rgba(52,241,247,1) 0%, rgba(192,39,230,1) 100%);
+} 
+.container-Header h1{
+    color: white;
+}

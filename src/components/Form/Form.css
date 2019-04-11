@@ -1,0 +1,7 @@
+.button-cotizar{
+    background:linear-gradient(to right, rgba(52,241,247,1) 0%, rgba(192,39,230,1) 100%);
+    color: white;
+    border-radius: 20px;
+    border: 1px solid white;
+    padding: 1% 5% 1% 5%;
+}
